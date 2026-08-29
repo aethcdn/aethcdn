@@ -5,7 +5,7 @@
 
 <br>
 
-**Hola, soy aeht. Me encanta programar y, además, me interesa bastante el desarrollo de malware con fines educativos, así como la creación de herramientas.**
+**Hola. Me encanta programar y, además, me interesa bastante el desarrollo de malware con fines educativos, así como la creación de herramientas.**
 
 <br>
 
