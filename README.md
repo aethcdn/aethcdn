@@ -4,7 +4,7 @@
 
 <br>
 
-## Desarrollador y entusiasta de Linux.
+# Desarrollador y entusiasta de Linux.
 
 <br>
 
@@ -14,20 +14,10 @@
 
 ***
 
-**Tecnologias y lenguajes:**
+## Tecnologias y lenguajes:
 
 <br>
 
-  <img src="https://cdn.simpleicons.org/cplusplus" width="32">
-  <img src="https://cdn.simpleicons.org/c" width="32">
-  <img src="https://cdn.simpleicons.org/python" width="32">
-  <img src="https://cdn.simpleicons.org/typescript" width="32">
-  <img src="https://cdn.simpleicons.org/javascript" width="32">
-  <img src="https://cdn.simpleicons.org/css" width="32">
-  <img src="https://cdn.simpleicons.org/html5" width="32">
-  <img src="https://cdn.simpleicons.org/react" width="32">
-  <img src="https://cdn.simpleicons.org/mysql" width="32">
-  <img src="https://cdn.simpleicons.org/sqlite" width="32">
-  <img src="https://cdn.simpleicons.org/linux" width="32">
-  
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,js,css,html,react,mysql,sqlite,linux)](https://skillicons.dev)
+
 </div>
