@@ -16,6 +16,7 @@
 
 ## Tecnologias y lenguajes:
 
+***
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,js,css,html,react,mysql,sqlite,linux)](https://skillicons.dev)
