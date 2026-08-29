@@ -18,13 +18,16 @@
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50">
-
+  <img src="https://cdn.simpleicons.org/cplusplus" width="32">
+  <img src="https://cdn.simpleicons.org/c" width="32">
+  <img src="https://cdn.simpleicons.org/python" width="32">
+  <img src="https://cdn.simpleicons.org/typescript" width="32">
+  <img src="https://cdn.simpleicons.org/javascript" width="32">
+  <img src="https://cdn.simpleicons.org/css" width="32">
+  <img src="https://cdn.simpleicons.org/html5" width="32">
+  <img src="https://cdn.simpleicons.org/react" width="32">
+  <img src="https://cdn.simpleicons.org/mysql" width="32">
+  <img src="https://cdn.simpleicons.org/sqlite" width="32">
+  <img src="https://cdn.simpleicons.org/linux" width="32">
+  
 </div>
