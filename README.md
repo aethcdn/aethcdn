@@ -12,6 +12,7 @@
 
 <br>
 ---
+
 **Tecnologias y lenguajes:**
 
 <br>
