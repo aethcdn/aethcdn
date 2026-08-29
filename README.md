@@ -2,7 +2,6 @@
 
 ![Banner](./banner.jpg)
 
-***
 
 <br>
 
