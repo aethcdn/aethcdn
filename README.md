@@ -10,7 +10,7 @@
 
 <br>
 
-***
+---
 
 **Tecnologías y lenguajes**
 
