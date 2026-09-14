@@ -2,17 +2,15 @@
 
 ![Banner](./banner.jpg)
 
-
 <br>
 
-**Hola. Me encanta programar y, además, me interesa bastante el desarrollo de malware con fines educativos, así como la creación de herramientas.**
+**Hello. I love programming, and I’m also very interested in malware development for educational purposes, as well as creating tools.**
 
 <br>
 
 ---
 
-
-**@ Tecnologías y lenguajes**
+**@ Technologies & Languages**
 
 <br>
 
